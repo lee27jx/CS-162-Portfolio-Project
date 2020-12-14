@@ -1,5 +1,7 @@
 # CS-162-Portfolio-Project
 CS 162 (Introduction to Computer Science II - Python) Portfolio Project
+
+
 Write a class named FocusGame for playing an abstract board game called Focus/Domination. You can see the rules here.
 
 Write your code for two-player version of the game.
